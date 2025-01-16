@@ -1,8 +1,8 @@
 ### Hi there 👋
 CS 1/8
 
-Speak: 🇧🇷 🇺🇸
+I speak: 🇧🇷 🇺🇸
 
-Learning: 🇷🇺
+I'm currently Learning: 🇷🇺
 
 🌱 I’m currently learning Java and Python
