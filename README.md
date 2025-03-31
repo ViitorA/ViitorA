@@ -1,6 +1,5 @@
 ### Hi there 👋
-CS 1/8
+CS 2/8
 
 I speak: 🇧🇷 🇺🇸
-
-I'm currently Learning: 🇷🇺
+Learning: 🇨🇳 (HSK 1)
